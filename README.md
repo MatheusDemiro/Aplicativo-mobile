@@ -18,5 +18,5 @@
 </p>
 <p> 
   <strong> Site: </strong> https://sites.google.com/view/spudy/
-  <strong> Email: </strong> spudydev@gmail.com
+  <p><strong> Email: </strong> spudydev@gmail.com</p>
 </p>

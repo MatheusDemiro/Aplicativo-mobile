@@ -13,10 +13,9 @@
   <li> Matheus Paulo </li>
   </ul>
 
+<p><strong> Site: </strong> https://sites.google.com/view/spudy/</p>
+<p><strong> Email: </strong> spudydev@gmail.com</p>
+
 <p>
-  <strong>OBS.:</strong> Aplicativo desenvolvido para as disciplinas de Modelagem e Programação Orientada a Objetos (MPOO) e Fundamentos da Engenharia de Software (FES). Ano: 2017 (segundo semestre).
-</p>
-<p> 
-  <strong> Site: </strong> https://sites.google.com/view/spudy/
-  <p><strong> Email: </strong> spudydev@gmail.com</p>
+  <strong>OBS.:<i> Aplicativo desenvolvido para as disciplinas de Modelagem e Programação Orientada a Objetos (MPOO) e Fundamentos da Engenharia de Software (FES). Ano: 2017 (segundo semestre).</i></strong>
 </p>
